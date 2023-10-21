@@ -1,1 +1,1 @@
-RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+Desafio: "Publicando sua API REST na nuvem usando Spring Boot 3, Java 17 e Railway" do Santander Bootcamp 2023.
